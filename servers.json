@@ -1,3 +1,14 @@
 {
-  "servers": ["wss://cheeserollingws.loca.lt"]
+  "servers": [
+    "wss://cheeserollingws.loca.lt",
+    "wss://cheeserollingws2.loca.lt",
+    "wss://cheeserollingws3.loca.lt",
+    "wss://cheeserollingws4.loca.lt",
+    "wss://cheeserollingws5.loca.lt",
+    "wss://cheeserollingws6.loca.lt",
+    "wss://cheeserollingws7.loca.lt",
+    "wss://cheeserollingws8.loca.lt",
+    "wss://cheeserollingws9.loca.lt",
+    "wss://cheeserollingws10.loca.lt"
+  ]
 }
